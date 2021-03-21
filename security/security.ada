@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe und Tests : https://edabit.com/challenge/tQ3s32czduj3vkm2u
+-- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/tQ3s32czduj3vkm2u
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	procedure security (s: String) is
