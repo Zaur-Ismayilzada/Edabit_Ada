@@ -38,7 +38,7 @@ procedure Hello is
 						flag := True;
 					else
 						flag := False;
-                        exit;
+                        			exit;
 					end if;
 					idx := idx + l;
 				end loop;
