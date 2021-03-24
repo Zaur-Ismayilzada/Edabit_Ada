@@ -7,9 +7,9 @@ procedure Hello is
 		l   : Positive := (n / 2) + 1; 
 		x   : Positive := 1;
 		begin
-            if n = 1 then
-                return 1;
-            end if;
+		        if n = 1 then
+				return 1;
+		        end if;
 			ans := ans + l;
 			
 			while x <= n - 2 loop
