@@ -1,7 +1,7 @@
 --GNAT 8.3.0
 --Aufgabe Beschreibung und Tests : https://edabit.com/challenge/ZERHA9w8iSLYNzRiT
-with Ada.Text_IO; 			use Ada.Text_IO;
-with Ada.Strings.Unbounded; use Ada.Strings.Unbounded;
+with Ada.Text_IO; 		use Ada.Text_IO;
+with Ada.Strings.Unbounded;     use Ada.Strings.Unbounded;
 with Ada.Containers; 		use Ada.Containers;
 with Ada.Containers.Vectors;
 procedure Hello is
