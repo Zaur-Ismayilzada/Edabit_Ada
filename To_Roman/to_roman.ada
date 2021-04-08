@@ -1,5 +1,5 @@
 --GNAT 8.3.0
---Aufgabe Beschreibung und Tests : https://edabit.com/challenge/KnpqDdkibon22Eexa
+--Aufgabebeschreibung und Tests : https://edabit.com/challenge/KnpqDdkibon22Eexa
 with Ada.Strings.Unbounded;                 use Ada.Strings.Unbounded;
 with Ada.Text_IO;                           use Ada.Text_IO;
 procedure Hello is
