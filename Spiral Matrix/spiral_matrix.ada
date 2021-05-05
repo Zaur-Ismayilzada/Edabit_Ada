@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/wmJWogKLQPGWyYYdZ
+-- Aufgabebeschreibung und Tests : https://edabit.com/challenge/wmJWogKLQPGWyYYdZ
 
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
