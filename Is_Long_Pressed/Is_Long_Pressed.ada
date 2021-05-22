@@ -11,7 +11,7 @@ procedure Hello is
 		I      : Positive         := 1;
 		begin
 			Temp   := Element (s, I);
-            Result := Result & Temp;
+            		Result := Result & Temp;
 			I      := I + 1;
 			
 			while I <= Length (s) loop
@@ -44,7 +44,7 @@ procedure Hello is
 				if Length (A_Temp) > Length (B_Temp) then
 					return False;
 				elsif (A_S  = Null_Unbounded_String and B_S /= Null_Unbounded_String) or
-                      (A_S /= Null_Unbounded_String and B_S  = Null_Unbounded_String) then
+                      		      (A_S /= Null_Unbounded_String and B_S  = Null_Unbounded_String) then
 					return False;					
 				end if;
 			end loop;
