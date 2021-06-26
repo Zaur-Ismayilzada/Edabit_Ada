@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/BjWyFnNMEwHC3DgoK
+-- Aufgabestellung und Tests : https://edabit.com/challenge/BjWyFnNMEwHC3DgoK
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	type Char_Set is ('a', 'A',
