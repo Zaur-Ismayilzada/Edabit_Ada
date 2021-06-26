@@ -1,5 +1,5 @@
 --GNAT 8.3.0
---Aufgabe Beschreibung und Tests : https://edabit.com/challenge/46K2Abh8C6Fdwyrpy
+--Aufgabestellung und Tests : https://edabit.com/challenge/46K2Abh8C6Fdwyrpy
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
     	function Is_Prime (num : Integer) return Boolean is
