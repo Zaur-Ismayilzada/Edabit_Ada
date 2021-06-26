@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/Tp5bqp6AyoQFMwWMr
+-- Aufgabestellung und Tests : https://edabit.com/challenge/Tp5bqp6AyoQFMwWMr
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	type Int_Array is array(Positive range <>) of Natural;
