@@ -1,5 +1,5 @@
 --GNAT 8.3.0
---Aufagabe Beschreibung und Tests : https://edabit.com/challenge/nQz4cQ5cbLyRCwgCP
+--Aufgabestellung und Tests : https://edabit.com/challenge/nQz4cQ5cbLyRCwgCP
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	type My_Float is digits 4;
