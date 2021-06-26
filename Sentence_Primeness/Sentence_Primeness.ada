@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/22zFrigLPpuGEPprt
+--Aufgabestellung und Tests : https://edabit.com/challenge/22zFrigLPpuGEPprt
 with Ada.Text_IO; 			  use Ada.Text_IO;
 with Ada.Strings.Unbounded;   use Ada.Strings.Unbounded;
 with Ada.Containers;          use Ada.Containers;
