@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/z7ps9d2jmqY5ERCaT
+-- Aufgabestellung und Tests : https://edabit.com/challenge/z7ps9d2jmqY5ERCaT
 with Ada.Text_IO; use Ada.Text_IO;
 with Ada.Containers; use Ada.Containers;
 with Ada.Containers.Vectors;
