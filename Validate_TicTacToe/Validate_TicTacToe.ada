@@ -1,5 +1,5 @@
 --GNAT 8.3.0
---Aufgabe Beschreibung und Tests : https://edabit.com/challenge/Z3McmedxhWdQLb8M6
+--Aufgabestellung und Tests : https://edabit.com/challenge/Z3McmedxhWdQLb8M6
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	type Str_Array is array(Positive range 1..3) of String(1..3);
