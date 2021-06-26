@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/qHAdirFSK5Euw4faG
+--Aufgabestellung und Tests : https://edabit.com/challenge/qHAdirFSK5Euw4faG
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	function Diamond_Sum (n: Positive) return Natural is
