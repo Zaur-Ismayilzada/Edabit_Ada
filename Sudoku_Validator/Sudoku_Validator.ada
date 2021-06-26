@@ -1,5 +1,5 @@
 --GNAT 8.3.0
---Aufgabe Beschreibung und Tests : https://edabit.com/challenge/8HvxzPPudwZfGnJux
+--Aufgabestellung und Tests : https://edabit.com/challenge/8HvxzPPudwZfGnJux
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
 	subtype Sudoku_Range is Positive range 1..9;
