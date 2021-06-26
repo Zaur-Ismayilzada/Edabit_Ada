@@ -1,5 +1,5 @@
 --GNAT 8.3.0
--- Aufgabe Beschreibung und Tests : https://edabit.com/challenge/GBmwGCwP3GfDKfqY2
+-- Aufgabestellung und Tests : https://edabit.com/challenge/GBmwGCwP3GfDKfqY2
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Hello is
     function Lunar_Sum (a, b : String) return String is
